@@ -156,7 +156,5 @@ No known bugs at this time.
 ## Authors
 Awoyale Felix =[Github](https://github.com/FelixAwoyale)
 
-
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
